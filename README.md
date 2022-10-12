@@ -4,7 +4,7 @@ Official PyTorch implementation of [PCL: Proxy-based Contrastive Learning in Dom
 
 Xufeng Yao,  Yang Bai,  Xinyun Zhang, Yuechen Zhang, Qi Sun, Ran Chen, Ruiyu Li, Bei Yu
 
-Note that this project is built upon [SWAD](https://github.com/facebookresearch/DomainBed/tree/3fe9d7bb4bc14777a42b3a9be8dd887e709ec414) and [DomainBed@3fe9d7](https://github.com/facebookresearch/DomainBed/tree/3fe9d7bb4bc14777a42b3a9be8dd887e709ec414).
+Note that this project is built upon [SWAD](https://github.com/khanrc/swad) and [DomainBed@3fe9d7](https://github.com/facebookresearch/DomainBed/tree/3fe9d7bb4bc14777a42b3a9be8dd887e709ec414).
 
 ## Preparation
 
